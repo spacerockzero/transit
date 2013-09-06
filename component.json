@@ -1,0 +1,17 @@
+{
+  "name": "transit",
+  "repo": "spacerockzero/transit",
+  "description": "A component wrapper for the jquery-based js transition library",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+  	"component/jquery": "1.9.1"
+  	},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "jquery.transit.js"
+    "index.js"
+  ]
+}

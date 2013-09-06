@@ -5,13 +5,13 @@
   "version": "0.0.1",
   "keywords": [],
   "dependencies": {
-  	"component/jquery": "1.9.1"
+  	"component/jquery": "*"
   	},
   "development": {},
   "license": "MIT",
   "main": "index.js",
   "scripts": [
-    "jquery.transit.js"
+    "jquery.transit.js",
     "index.js"
   ]
 }
